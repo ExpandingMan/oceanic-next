@@ -18,12 +18,14 @@ hi Bold gui=bold cterm=bold
 hi Debug guifg=#ec5f67 ctermfg=203
 hi Directory guifg=#6699cc ctermfg=68
 hi ErrorMsg guifg=#ec5f67 ctermfg=203 guibg=#1b2b34 ctermbg=235
-hi Exception guifg=#ec5f67 ctermfg=203
+" hi Exception guifg=#ec5f67 ctermfg=203
+hi Exception guifg=#c594c5 ctermfg=203
 hi FoldColumn guibg=#343d46 ctermbg=237
 hi Folded guifg=#65737e ctermfg=243 guibg=#343d46 ctermbg=237
 hi IncSearch guifg=#343d46 ctermfg=237 guibg=#f99157 ctermbg=209
 hi Italic gui=underline cterm=underline
-hi Macro guifg=#ec5f67 ctermfg=203
+" hi Macro guifg=#ec5f67 ctermfg=203
+hi Macro guifg=#6699cc ctermfg=203
 hi MatchParen guifg=#c0c5ce ctermfg=251 guibg=#65737e ctermbg=243
 hi ModeMsg guifg=#99c794 ctermfg=114
 hi MoreMsg guifg=#99c794 ctermfg=114
@@ -74,18 +76,21 @@ hi Include guifg=#6699cc ctermfg=68
 hi Keyword guifg=#c594c5 ctermfg=176
 hi Label guifg=#fac863 ctermfg=221
 hi Number guifg=#f99157 ctermfg=209
-hi Operator guifg=#c0c5ce ctermfg=251 gui=NONE cterm=NONE
+" hi Operator guifg=#c0c5ce ctermfg=251 gui=NONE cterm=NONE
+hi Operator guifg=#5fb3b3 ctermfg=251 gui=NONE cterm=NONE
 hi PreProc guifg=#fac863 ctermfg=221
 hi Repeat guifg=#fac863 ctermfg=221
 hi Special guifg=#62b3b2 ctermfg=73
 hi SpecialChar guifg=#ab7967 ctermfg=137
 hi Statement guifg=#ec5f67 ctermfg=203
 hi StorageClass guifg=#fac863 ctermfg=221
-hi String guifg=#99c794 ctermfg=114
+" hi String guifg=#99c794 ctermfg=114
+hi String guifg=#f99157 ctermfg=114
 hi Structure guifg=#c594c5 ctermfg=176
 hi Tag guifg=#fac863 ctermfg=221
 hi Todo guifg=#fac863 ctermfg=221 guibg=#343d46 ctermbg=237
-hi Type guifg=#fac863 ctermfg=221 gui=NONE cterm=NONE
+" hi Type guifg=#fac863 ctermfg=221 gui=NONE cterm=NONE
+hi Type guifg=#99c794 ctermfg=221 gui=NONE cterm=NONE
 hi Typedef guifg=#fac863 ctermfg=221
 hi SpellBad guibg=#1b2b34 ctermbg=235 gui=undercurl cterm=undercurl
 hi SpellLocal guibg=#1b2b34 ctermbg=235 gui=undercurl cterm=undercurl
